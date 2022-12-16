@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183784123100",
+    "project_id": "mynotesfirebase1",
+    "storage_bucket": "mynotesfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183784123100:android:1d70f25d095fe9271e6219",
+        "android_client_info": {
+          "package_name": "msku.ceng.madlab.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183784123100-psag9grud1ks0sn8q74jlmsrrvap0gkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8-Zzcqw73B51uDaijL9ZQCEQQsy7SsJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183784123100-psag9grud1ks0sn8q74jlmsrrvap0gkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
